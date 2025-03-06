@@ -16,12 +16,6 @@
 ![Game Environment](https://github.com/AyushPoddar6845/Stockpile-Chopper/blob/main/Landscape1.png)
 ![Game Environment](https://github.com/AyushPoddar6845/Stockpile-Chopper/blob/main/Landscape2.png)
 
-### Aircraft/Chopper Image
-![Aircraft1](https://github.com/AyushPoddar6845/Stockpile-Chopper/blob/main/Aircraft1.png)
-![Aircraft2](https://github.com/AyushPoddar6845/Stockpile-Chopper/blob/main/Aircraft2.png)
-![Aircraft3](https://github.com/AyushPoddar6845/Stockpile-Chopper/blob/main/Aircraft3.png)
-
-
 
 
 
@@ -62,7 +56,10 @@ The primary goal of Royale Copter is to create an **immersive and visually stunn
 6. **Performance Optimization** – Implementing **culling, LODs, and asset streaming**.
 7. **Multiplayer Mode** – Competitive races via **networked gameplay**.
 
-`add_image_here`
+### Aircraft/Chopper Image
+![Aircraft1](https://github.com/AyushPoddar6845/Stockpile-Chopper/blob/main/Aircraft1.png)
+![Aircraft2](https://github.com/AyushPoddar6845/Stockpile-Chopper/blob/main/Aircraft2.png)
+
 
 ---
 
@@ -90,7 +87,8 @@ The primary goal of Royale Copter is to create an **immersive and visually stunn
 ✔️ **User-Generated Content** – Custom level and helicopter creation.  
 ✔️ **VR Support** – Immersive virtual reality gameplay.  
 
-`add_image_here`
+
+![Aircraft3](https://github.com/AyushPoddar6845/Stockpile-Chopper/blob/main/Aircraft3.png)
 
 ---
 
