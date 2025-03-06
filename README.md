@@ -12,7 +12,8 @@
 - **Multiplayer Mode for Competitive Racing** 🏆
 - **Leaderboards & Achievements** 🎖️
 
-`add_image_here`
+![Game Environment](https://github.com/AyushPoddar6845/Stockpile-Chopper/blob/main/Landscape1.png)
+
 
 ---
 
