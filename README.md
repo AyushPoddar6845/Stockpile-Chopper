@@ -1,7 +1,7 @@
-# 🚁 Royale Copter - Helicopter Checkpoint Challenge
+# 🚁 Stockpile Chopper - Helicopter Checkpoint Challenge
 
 ## 🛠️ Overview
-**Royale Copter** is an open-world 3D helicopter simulation game developed using **Unreal Engine 5**. Players take on the role of a helicopter pilot, navigating through **diverse terrains, dynamic weather conditions, and challenging obstacle courses** while managing fuel and upgrading their helicopter.
+**Stockpile Chopper** is an open-world 3D helicopter simulation game developed using **Unreal Engine 5**. Players take on the role of a helicopter pilot, navigating through **diverse terrains, dynamic weather conditions, and challenging obstacle courses** while managing fuel and upgrading their helicopter.
 
 ### Key Features:
 - **Realistic Flight Physics** ✈️
@@ -13,17 +13,13 @@
 - **Leaderboards & Achievements** 🎖️
 
 ### Environment Image
-![Game Environment](https://github.com/AyushPoddar6845/Stockpile-Chopper/blob/main/Landscape1.png)
-![Game Environment](https://github.com/AyushPoddar6845/Stockpile-Chopper/blob/main/Landscape2.png)
-
-
-
-
+![Game Environment](https://github.com/AyushPoddar6845/Stockpile-Chopper/blob/main/Assets/Landscape1.png)
+![Game Environment](https://github.com/AyushPoddar6845/Stockpile-Chopper/blob/main/Assets/Landscape2.png)
 
 ---
 
 ## 🎯 Objective
-The primary goal of Royale Copter is to create an **immersive and visually stunning** helicopter simulation using **Unreal Engine 5**, integrating **realistic flight mechanics, interactive landscapes, and user-friendly controls**. The game prioritizes **precision flying and strategic decision-making** to provide an exhilarating experience.
+The primary goal of Stockpile Chopper is to create an **immersive and visually stunning** helicopter simulation using **Unreal Engine 5**, integrating **realistic flight mechanics, interactive landscapes, and user-friendly controls**. The game prioritizes **precision flying and strategic decision-making** to provide an exhilarating experience.
 
 ---
 
@@ -32,7 +28,8 @@ The primary goal of Royale Copter is to create an **immersive and visually stunn
 - Navigate your **helicopter** through various **checkpoints** while overcoming **obstacles, unpredictable weather, and fuel limitations**.
 - The game combines **precision flying with strategic decision-making**, offering a thrilling **simulation experience**.
 
-`add_image_here`
+### Folliages :
+![Folliages](https://github.com/AyushPoddar6845/Stockpile-Chopper/blob/main/Assets/Folliages%20and%20other%20assets.jpeg)
 
 ### 🔹 Controls
 - **Keyboard-based controls** (for now) with plans to expand to **gamepad and joystick** support.
@@ -57,9 +54,8 @@ The primary goal of Royale Copter is to create an **immersive and visually stunn
 7. **Multiplayer Mode** – Competitive races via **networked gameplay**.
 
 ### Aircraft/Chopper Image
-![Aircraft1](https://github.com/AyushPoddar6845/Stockpile-Chopper/blob/main/Aircraft1.png)
-![Aircraft2](https://github.com/AyushPoddar6845/Stockpile-Chopper/blob/main/Aircraft2.png)
-
+![Aircraft1](https://github.com/AyushPoddar6845/Stockpile-Chopper/blob/main/Assets/Aircraft1.png)
+![Aircraft2](https://github.com/AyushPoddar6845/Stockpile-Chopper/blob/main/Assets/Aircraft2.png)
 
 ---
 
@@ -87,8 +83,7 @@ The primary goal of Royale Copter is to create an **immersive and visually stunn
 ✔️ **User-Generated Content** – Custom level and helicopter creation.  
 ✔️ **VR Support** – Immersive virtual reality gameplay.  
 
-
-![Aircraft3](https://github.com/AyushPoddar6845/Stockpile-Chopper/blob/main/Aircraft3.png)
+![Aircraft3](https://github.com/AyushPoddar6845/Stockpile-Chopper/blob/main/Assets/Aircraft3.png)
 
 ---
 
@@ -98,4 +93,3 @@ The primary goal of Royale Copter is to create an **immersive and visually stunn
 - **3D Assets from TurboSquid & Quixel Bridge** 🎨
 
 ---
-
